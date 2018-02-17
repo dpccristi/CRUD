@@ -1,0 +1,27 @@
+.tab {
+    color: #003333;
+    margin: 0px auto;
+}
+.tab tr td {
+    margin-right: 10px;
+}
+.createform input{
+   margin-bottom: 5px;
+}
+.createform button {
+    margin-left: 70px;
+}
+.space {
+    margin-bottom: 5px!important;
+}
+.container {
+    margin-top: 200px !important;
+}
+
+.row {
+    margin-top: 100px;
+}
+body {
+    background-color: #226666 !important;
+
+}

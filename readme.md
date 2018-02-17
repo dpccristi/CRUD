@@ -1,0 +1,1 @@
+CRUD, redirect, template cu acelasi styling, session (trimitem informatii intre pagini), accesam baza de date, Hash (criptat testat parole)
